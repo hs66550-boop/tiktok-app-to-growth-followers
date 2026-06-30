@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Underlay shadow/glow path (Cyan) -->
+    <path
+        android:fillColor="#25F4EE"
+        android:pathData="M22,76 L48,50 L64,66 L86,32 L74,32 L74,26 L94,26 L94,46 L88,46 L88,34 L64,68 L48,52 L22,78 Z" />
+        
+    <!-- Main overlay path (Neon TikTok Pink) -->
+    <path
+        android:fillColor="#FE2C55"
+        android:pathData="M24,74 L48,48 L64,64 L88,30 L76,30 L76,26 L92,26 L92,42 L88,42 L88,32 L64,66 L48,50 L24,76 Z" />
+        
+    <!-- Small star representing premium testing and quality (Gold) -->
+    <path
+        android:fillColor="#FFFFB800"
+        android:pathData="M54,16 L56.5,21 L62,21 L57.5,24 L59.5,29 L54,26.5 L48.5,29 L50.5,24 L46,21 L51.5,21 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "TikToker Ace",
+  "description": "Track your TikTok engagement and follower growth in real-time, launch authentic organic follower campaigns, and get AI-powered insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
